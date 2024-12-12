@@ -9,7 +9,6 @@ This project predicts the solubility of chemical compounds (logS) using two mach
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 This repository contains Python code to:
